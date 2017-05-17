@@ -1,0 +1,7 @@
+Algorithm
+Parameters Selection:
+[node]: the new feature/bug.
+[initial-weight]: the value for 1st iteration.
+[iters]: the number of iterations.
+[increase]: the increased weight-value by interations.
+Procedure:
